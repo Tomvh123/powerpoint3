@@ -1,0 +1,6 @@
+{
+  "dbUser": "node_mysql_user",
+  "dbDatabase"  : "sakila",
+  "dbHost"  : "localhost",
+  "webPort"   : "3000"
+}
